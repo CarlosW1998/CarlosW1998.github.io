@@ -4,4 +4,4 @@ layout: default
 
 # Laest Relaases
 
-## Effectiveness Analysis (./)
+## Effectiveness Analysis
