@@ -2,21 +2,30 @@
 layout: default
 ---
 
-#About Me
-My name is Carlos, ia am a full steack developer, more experint in beck end
+# About Me
+My name is Carlos, i am an full stack developer, more experint in back end
 development, currently studying Computing Science in Federal University Of
 Alagoas.
 
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+<!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Header 1
+# Skills
+
+*   Python
+*   Java
+*   JavaScript
+*   C
+*   C++
+*   Julia
+
+<!-- # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -126,4 +135,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
