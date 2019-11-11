@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Laest Relaases
+# News
 
-## Effectiveness Analysis
+## [Effectiveness Analysis](./news/EffectivenessAnalysis.html)
