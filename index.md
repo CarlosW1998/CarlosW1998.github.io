@@ -3,8 +3,8 @@ layout: default
 ---
 
 # About Me
-My name is Carlos, i am an full stack developer, more experint in back end
-development, currently studying Computing Science in Federal University Of
+My name is Carlos, i am a full stack developer, more experienced  in back end
+development, currently studying Computer Science in Federal University Of
 Alagoas.
 
 
@@ -25,6 +25,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 *   C++
 *   Julia
 *   Github
+
+# Contact
+
+### Email: cwlbn@lccv.ufal.br
+
 
 <!-- # Header 1
 
